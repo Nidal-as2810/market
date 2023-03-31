@@ -1,0 +1,7 @@
+.sub {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 49% 49%;
+  gap: 2%;
+  position: relative;
+}
